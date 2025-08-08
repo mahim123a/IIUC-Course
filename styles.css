@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f4f8; /* Light gray background */
+}
+
+/* Custom styles for course cards */
+/* These styles are applied via Tailwind classes in the HTML,
+   but this section shows how you might add more specific custom
+   styles if needed beyond Tailwind's utility classes. */
+
+.course-card {
+    /* Tailwind classes are primary for styling, but if you need
+       more complex animations or specific properties not easily
+       achieved with Tailwind, you'd add them here. */
+    /* Example: A more complex shadow or border animation */
+}
